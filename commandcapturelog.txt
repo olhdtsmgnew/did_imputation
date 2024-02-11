@@ -1,0 +1,2 @@
+wfopen "d:\olah data amier nur khafid eviews\amier nur khafid eviews.wf1"
+
